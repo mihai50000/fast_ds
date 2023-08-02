@@ -1,0 +1,1 @@
+### This is an attempt to write a lock-free dynamically resizing array described in the following paper: https://stroustrup.com/lock-free-vector.pdf
